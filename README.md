@@ -1,7 +1,7 @@
 ### Hello there, I'm Andrés Sierra 
 ---
 
-I am **Chemical Engineering Student**, **Data Science Science Student** from Colombia and **AIChE Student Chapter** Unipamplona Co-founder.
+I am **Chemical Engineering Student**, **Data Science Student** from Colombia and **AIChE Student Chapter** Unipamplona Co-founder.
 
 I feel really passionate for Material Science, Nanotechnology and Machine Learning.
 
