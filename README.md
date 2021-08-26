@@ -1,9 +1,15 @@
-### Hello there, I'm Andrés Sierra 
+### Hello there, I'm Andrés Sierra 🛰
 ---
 
-I am **Chemical Engineering Student**, **Data Science Student** from Colombia and **AIChE Student Chapter** Unipamplona Co-founder.
+👨‍🔬I am **Chemical Engineering Student**
 
-I feel really passionate for Material Science, Nanotechnology and Machine Learning.
+👨‍💻**Data Science Student**
+
+📚**AIChE Student Chapter** Unipamplona (*Co-founder*)
+
+🛰 **Platzi Campus Rep**.
+
+✨ I feel really passionate for Material Science, Nanotechnology and Machine Learning.
 
 - 🌱 I’m currently learning Data Science and Machine Learning with [**UdeA**](https://asone.udea.edu.co/portafolio/#/catalog/1852) (Diplomaed) and [**Platzi**](https://platzi.com/datos) (Learning Path) 
 
