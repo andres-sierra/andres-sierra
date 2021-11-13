@@ -15,6 +15,12 @@
 
 - 📫 My personal [**Linkedin**](https://www.linkedin.com/in/andresf-sierra/) and [**CvLAC**](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000138045)
 
+ ## Spotify Playing 🎧
+ 
+
+[![Spotify](https://andresf-sierra.vercel.app/api/spotify)](https://open.spotify.com/playlist/1fidCoH7h56fOoKJvfLlHz?si=a423817994084a30)
+
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=andresf-sierra&show_icons=true)  
 
