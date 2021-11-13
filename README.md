@@ -18,7 +18,7 @@
  ## Spotify Playing 🎧
  
 
-[![Spotify](https://andresf-sierra.vercel.app/api/spotify)](https://open.spotify.com/playlist/1fidCoH7h56fOoKJvfLlHz?si=a423817994084a30)
+[![Spotify](https://andresf-sierra.vercel.app/api/spotify)](https://open.spotify.com/playlist/4BjsXcHycnyDM1EwJ1sshY?si=86ceb0022fff4487)
 
 
 
