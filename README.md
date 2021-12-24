@@ -1,7 +1,7 @@
 ### Hello there, I'm Andrés Sierra 🛰
 ---
 
-👨‍🔬I am **Chemical Engineering Student**
+👨‍🔬I am **Chemical Engineering**
 
 👨‍💻**Data Science Student**
 
