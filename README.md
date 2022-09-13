@@ -18,7 +18,8 @@
 
 ## Personal Projects and Portfolio💻
 Still under construction...
-But you can check it out my CV here
+But you can check it out my CV [**here**](https://github.com/andresf-sierra/andresf-sierra/blob/0efe30bac533610062092b0e41450aff0bef6d69/CV%20ENG%20-%20Andr%C3%A9s%20Felipe%20Sierra%20%C3%81lvarez%20IQ.pdf)
+
 ## My Stack ⚡
 
  ## Spotify Playing 🎧
