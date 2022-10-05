@@ -46,9 +46,10 @@ But you can check it out my CV [**here**](https://github.com/andresf-sierra/andr
 
 [![Spotify](https://andresf-sierra.vercel.app/api/spotify)](https://open.spotify.com/playlist/4BjsXcHycnyDM1EwJ1sshY?si=86ceb0022fff4487)
 
+## Stats 📊
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=andresf-sierra&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresf-sierra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=andresf-sierra&show_icons=true)  
 
 
 
