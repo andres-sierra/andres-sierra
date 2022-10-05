@@ -15,6 +15,10 @@
 - 🌱 I’m currently learning Data Science and Machine Learning with [**UdeA**](https://asone.udea.edu.co/portafolio/#/catalog/1852) (Diplomaed), [**Platzi**](https://platzi.com/datos) (Learning Path) and [**DataCamp**](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=6) (Career Track)
 
 - 📫 My personal [**Linkedin**](https://www.linkedin.com/in/andresf-sierra/) and [**CvLAC**](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000138045)
+- Improving my skills with:
+
+![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)
+![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)
 
 ## Personal Projects and Portfolio💻
 Still under construction...
