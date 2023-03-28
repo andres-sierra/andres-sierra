@@ -21,8 +21,11 @@
 ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)
 
 ## Personal Projects and Portfolio💻
-- Meetup: [**Basic Python for Chemical Engineers [SPANISH]**](https://github.com/andresf-sierra/python_iq_meetup) 
-- Python: [**Rock, Paper and Scissors [SPANISH]**](https://github.com/andresf-sierra/piedra-papel-tijera)
+- Meetup: [**Basic Python for Chemical Engineers [SPANISH]**](https://github.com/andresf-sierra/python_iq_meetup)
+### Tiny Python Projects
+[**Rock, Paper and Scissors [SPANISH]**](https://github.com/andresf-sierra/piedra-papel-tijera)
+
+[**Pomodoro Timer Calculator [SPANISH]**](https://github.com/andresf-sierra/Pomodoro_Timer_Calculator)
 
 Still under construction...
 But you can check it out my CV [**here**](https://github.com/andresf-sierra/andresf-sierra/blob/0efe30bac533610062092b0e41450aff0bef6d69/CV%20ENG%20-%20Andr%C3%A9s%20Felipe%20Sierra%20%C3%81lvarez%20IQ.pdf)
