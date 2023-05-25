@@ -22,7 +22,7 @@
 
 ## Personal Projects and Portfolio💻
 - Meetup: [**Basic Python for Chemical Engineers [SPANISH]**](https://github.com/andresf-sierra/python_iq_meetup)
-- Discord Community: [**Python IQ & Data**](https://discord.gg/RCbrUHQeJT)
+- Discord Community: [**Python ChEng & Data**](https://discord.gg/RCbrUHQeJT)
 ### Tiny Python Projects
 [**Pomodoro Timer Calculator [SPANISH]**](https://github.com/andresf-sierra/Pomodoro_Timer_Calculator)
 
