@@ -1,24 +1,18 @@
-### Hello there, I'm Andrés Sierra 🛰
+# Hello there, I'm Andrés Sierra 🛰
 ---
 ![Banner](1.png)
 
-👨‍🔬I'm a **BSc. Chemical Engineer**
+👨‍🔬I'm a **BSc. Chemical Engineer** working on control, automation, and optimization of processes (Oil & Gas, Water Treatment)
 
-👨‍💻**Data Science Student**
+👨‍💻**Data Science Student/Enthusiasm**
 
 📚**AIChE Student Chapter** Unipamplona (*Co-founder*)
 
 🛰 **Platzi Campus Rep 2021**.
 
-✨ I feel really passionate about Material Science, Nanotechnology, and Machine Learning.
-
-- 🌱 I’m currently learning Data Science and Machine Learning with [**UdeA**](https://asone.udea.edu.co/portafolio/#/catalog/1852) (Diplomaed), [**Platzi**](https://platzi.com/datos) (Learning Path) and [**DataCamp**](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=6) (Career Track)
+✨ I feel really passionate about Material Data Science and Nanotech.
 
 - 📫 My personal [**Linkedin**](https://www.linkedin.com/in/andresf-sierra/) and [**CvLAC**](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000138045)
-- Improving my skills with:
-
-![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)
-![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)
 
 ## Personal Projects and Portfolio💻
 - Meetup: [**Basic Python for Chemical Engineers [SPANISH]**](https://github.com/andresf-sierra/python_iq_meetup)
