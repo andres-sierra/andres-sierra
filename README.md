@@ -10,7 +10,7 @@
 
 🛰 **Platzi Campus Rep 2021**.
 
-✨ I feel really passionate for Material Science, Nanotechnology and Machine Learning.
+✨ I feel really passionate about Material Science, Nanotechnology, and Machine Learning.
 
 - 🌱 I’m currently learning Data Science and Machine Learning with [**UdeA**](https://asone.udea.edu.co/portafolio/#/catalog/1852) (Diplomaed), [**Platzi**](https://platzi.com/datos) (Learning Path) and [**DataCamp**](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=6) (Career Track)
 
@@ -27,6 +27,12 @@
 [**Pomodoro Timer Calculator [SPANISH]**](https://github.com/andresf-sierra/Pomodoro_Timer_Calculator)
 
 [**Rock, Paper and Scissors [SPANISH]**](https://github.com/andresf-sierra/piedra-papel-tijera)
+
+### Tiny SQL queries
+
+[**Analyzing Carbon Footprints in SQL**](https://github.com/andresf-sierra/carbon_footprint_sql)
+
+[**Manchester United Performance in SQL**](https://github.com/andresf-sierra/sql_manhesterunited)
 
 Still under construction...
 
