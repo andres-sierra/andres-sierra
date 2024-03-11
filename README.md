@@ -1,6 +1,6 @@
 # Hello there, I'm Andrés Sierra 🛰
 ---
-![Banner](1.png)
+![Banner](banner.png)
 
 👨‍🔬I'm a **BSc. Chemical Engineer** working on control, automation, and optimization of processes (Oil & Gas, Water Treatment)
 
