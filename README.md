@@ -2,7 +2,12 @@
 ---
 ![Banner](banner.png)
 
-👨‍🔬I'm a **BSc. Chemical Engineer** working on control, automation, and optimization of processes (Oil & Gas, Water Treatment)
+👨‍🔬Chemical Engineer working on control, automation, and optimization of processes (Oil & Gas, Water Treatment).
+
+I use tools like Python, SQL (SQL Server), and Excel for consulting, manipulating, and analyzing data from CSV files, Database tables, or Spreadsheets. 
+
+Currently, acquiring experience in the full project lifecycle from initiation to closure.
+Outstanding public speaking, team contribution, commitment, and especially, curiosity.
 
 👨‍💻**Data Science Student/Enthusiasm**
 
